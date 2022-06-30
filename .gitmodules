@@ -1,0 +1,3 @@
+[submodule "realuex"]
+	path = realuex
+	url = https://github.com/Erixar/reuleaux.git
